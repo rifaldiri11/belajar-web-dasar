@@ -3,3 +3,7 @@ Daftar Bahasa Pemrograman
 - CSS (Markup Language)
 - JavaScript (Dasar)
 - PHP (Dasar)
+
+Daftar Framework Bahasa Pemrograman
+- Laravel (PHP)
+- React Native (JavaScript)
