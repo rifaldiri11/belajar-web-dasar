@@ -1,0 +1,5 @@
+Daftar Bahasa Pemrograman 
+- HTML (Markup Language)
+- CSS (Markup Language)
+- JavaScript (Dasar)
+- PHP (Dasar)
