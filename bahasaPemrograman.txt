@@ -7,3 +7,4 @@ Daftar Bahasa Pemrograman
 Daftar Framework Bahasa Pemrograman
 - Laravel (PHP)
 - React Native (JavaScript)
+- React JS (JavaScript)
